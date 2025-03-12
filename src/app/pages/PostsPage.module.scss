@@ -1,0 +1,29 @@
+/* src/app/posts/PostsPage.module.scss */
+
+.postsPage {
+    padding: 20px;
+  }
+  
+  .postsPage h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .postsPage ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .postsPage li {
+    margin-bottom: 10px;
+  }
+  
+  .postsPage a {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .postsPage a:hover {
+    text-decoration: underline;
+  }
+  
